@@ -37,7 +37,7 @@ SCORE WORKSHEET - 16 col x 11 row (copy & paste into your favorite MONOSPACE DOC
 /* 1011 */                                                                  /* C / do */
 ```
 > [!IMPORTANT]
-> If you use the worksheet, you'll want to hightlight and replace the placeholder character to preserve the layout.
+> If you use the worksheet, you'll want to hightlight and replace the placeholder character with the note symbol to preserve the layout.
 ---
 ```
 PITCH: Descending from High F (0000) to Low C (1010) 
