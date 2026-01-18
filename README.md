@@ -1,3 +1,5 @@
+<p align="center">IMGD 5010 &bull; Assignment 1 &bull; Build Your Own Binary &bull; Todd Stewart</p>
+
 # Twinkle Twinkle Little Code :notes:
 a method to visualize music scores in plain text
 ===
