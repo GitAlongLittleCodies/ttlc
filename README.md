@@ -11,7 +11,7 @@ The *TTLC* language attempts to represent a music score in plain text. Similar t
 
 * When you run *TTLC*, it will take a step forward, plot your note, and repeat until it is out of code.
 
-## How to run a simulation:
+## How to Simulate:
 1. Draw a 16col x 11row grid in a digital document or on a piece of paper.
 2. Label the x-axis &ldquo;__STEPS__&rdquo; and the y-axis &ldquo;__PITCH__&rdquo;.
 3. Read the first set of words in the program.
