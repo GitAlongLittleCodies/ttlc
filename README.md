@@ -91,7 +91,7 @@ YOUR CHALLENGE
 | Name My Tune | Name Your Tune |
 | Instructions:<br>I provide the program. | Instructions:<br>You provide the program. |
 | My tune: (5 notes) | Your tune:  |
-| `  0010 0010  0001 0010  0011 0010  1011 0010      0111 0000  ` |  ` ???? ????                                           ` |
+| ` 0010 0010  0001 0010  0011 0010  1011 0010  0111 0000 ` |  ` ???? ????                                           ` |
 | Answer: `                                 ` | *Try [ABCNotation](https://abcnotation.com/search) for ideas.* |
 ---
 
