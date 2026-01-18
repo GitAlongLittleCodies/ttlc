@@ -7,7 +7,7 @@ a method to visualize music scores in plain text
 The *TTLC* language attempts to represent a music score in plain text. Similar to Turing&rsquo;s Machine, this &lsquo;Tuning Machine&rsquo; also lets you print symbols on a &ldquo;tape.&rdquo; Unlike Turing&rsquo;s Machine, though, this method cannot go backwards or return to a specific location. It can only go forward, __STEP__ by __STEP__. 
 
 ## How to Code: 
-* You provide the __PITCH__ and __NOTE__ in the form of two 4-bit binary numbers. *Such as...*
+* You provide the __PITCH__ and __NOTE__ in the form of two 4-bit binary words. *Such as...*
     * `0111 0000` for  __PITCH G__ with a __WHOLE NOTE__
     * `1011 0011` for  __PITCH LOW C__ with an __EIGHTH NOTE__
 * When your program runs, *TTLC* will look at the first set of words and plot their respective *pitch* and *note* in *step one*.
