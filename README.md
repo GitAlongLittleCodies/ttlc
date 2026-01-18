@@ -62,7 +62,7 @@ NOTE: This defines the duration of the STEP. Whole Notes are 4 beats.
 4 Bars of Twinkle Twinkle Little Star
 ---
 ```
-my code: 
+Program: 
   1011 0010  1011 0010  0111 0010  0111 0010  0101 0010  0101 0010  0111 0001  1000 0010
   1000 0010  1001 0010  1001 0010  1010 0010  1010 0010  1011 0001  0010 0000  0001 0000
 ```
@@ -83,7 +83,7 @@ Result:
            do  do  so  so  la  la  so  fa  fa  mi  mi  re  re  do  re  mi (*) (**)
 ```
 (*) The last two steps are throwing an error. I have some debugging to do.  
-(**) I added the Solfège (do-re-mi)[^1] along the bottom.
+(**) I added the Solfège[^1] *(do-re-mi)* along the bottom. Might add it as a feature later.
 
 ---
 | FIRST CHALLENGE | SECOND CHALLENGE |
