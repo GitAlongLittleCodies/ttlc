@@ -95,6 +95,6 @@ YOUR CHALLENGE
 | My tune: (5 notes) | Your tune:  |
 | ` 0010 0010  0001 0010  0011 0010  1011 0010  0111 0000 ` |  ` ???? ???? ` |
 | Answer: `                                    ` | *Try [ABCNotation](https://abcnotation.com/search) for ideas.* |
----
 
-[^1]: [Solfège](https://www.key-notes.com/blog/solfege)
+
+[^1]: Here's a good explanation of [Solfège](https://www.key-notes.com/blog/solfege).
